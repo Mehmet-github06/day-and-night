@@ -18,19 +18,19 @@ The web page displays a transition effect between different times of the day: mo
 
 ## Screenshot
 
-![Screenshot](/screenshots/screenshot.png)
-*(Replace `/screenshots/screenshot.png` with the actual path to your screenshot image)*
+![Screenshot](./img/Screenshot_1.jpg)
+
 
 ## Live Demo
 
-[View Live Demo](https://your-live-demo-url.com)
-*(Replace `https://your-live-demo-url.com` with the actual URL of your live demo)*
+[View Live Demo](https://gece-v-eg-nd-z.vercel.app/)
+
 
 ## Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript
+
 
 ## How to Use
 
